@@ -20,7 +20,7 @@ spec = Gem::Specification.new do |s|
     "License.txt",
     "Manifest.txt",
     "Rakefile",
-    "README.txt",
+    "README.textile",
     "spec/article_spec.rb",
     "spec/comment_list_spec.rb",
     "spec/comment_spec.rb",
