@@ -35,6 +35,6 @@ spec = Gem::Specification.new do |s|
   ]
   s.require_path = "lib"
   s.has_rdoc = true
-  s.extra_rdoc_files = ["README.txt"]
+  s.extra_rdoc_files = ["README.textile"]
   s.add_dependency("json", ">= 1.1.2")
 end
