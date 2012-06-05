@@ -37,5 +37,9 @@ module Reddit
       return User.new(username)
     end
     
+    def username
+      return @username
+    end
+    
   end
 end
